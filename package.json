@@ -71,7 +71,7 @@
     "@angular/http": "~2.1.0",
     "@angular/common": "~2.1.0",
     "@angular/core": "~2.1.0",
-    "ng2-idle": "git+https://git@github.com/BahKoo/ng2-idle.git#b861f5025b9364efdaa49af038e536aeabb97105",
+    "ng2-idle": "git+https://git@github.com/BahKoo/ng2-idle-dist.git#933abe3654166b3d9d6a7085affcbdba8f439676",
     "rxjs": "5.0.0-beta.12",
     "zone.js": "0.6.25"
   },
